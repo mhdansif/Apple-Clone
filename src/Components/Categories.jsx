@@ -8,11 +8,10 @@ import i4 from '../assets/image/i4.jpeg';
 import i5 from '../assets/image/i5.jpeg';
 
 // Videos
-<video src={require('../assets/image/v1.mp4')}/>
+import v1 from '../assets/image/v1.mp4';
 import v2 from '../assets/image/v2.mp4';
 import v3 from '../assets/image/v3.mp4';
 import v4 from '../assets/image/v4.mp4';
-
 
 function Categories() {
   return (
